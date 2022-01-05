@@ -6,6 +6,7 @@ Lending Club Case Study
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
+* [Contributors](#contributors)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -18,9 +19,11 @@ This consumer finance company specialises in lending various types of loans to u
 The given data contains the information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 In this case study, we will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.<br><br>
 
-### - What is the background of your project?<br>The project is based on Exploratory Data Analysis<br><br>
+### - What is the background of your project?<br>
+The project is based on Exploratory Data Analysis<br><br>
 
-### - What is the business probem that your project is trying to solve?<br><br>This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.<br><br>Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.<br><br>
+### - What is the business probem that your project is trying to solve?<br><br>
+This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.<br><br>Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.<br><br>
 
 If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.<br><br>
 
@@ -56,8 +59,9 @@ Downloaded the dataset from online student portal. It contains the complete loan
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Contact
-Created by [@atulch09] - feel free to contact me!
+## Contributors<br>
+Atul Chauhan<br>
+Sowmya Renukeshwara
 
 
 <!-- Optional -->
