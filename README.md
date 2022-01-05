@@ -61,7 +61,7 @@ Downloaded the dataset from online student portal. It contains the complete loan
 
 ## Contributors<br>
 Atul Chauhan<br>
-Sowmya Renukeshwara
+Sowmya Renukeshwara (@SRENU2022)
 
 
 <!-- Optional -->
