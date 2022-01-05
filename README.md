@@ -60,7 +60,7 @@ Downloaded the dataset from online student portal. It contains the complete loan
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contributors<br>
-Atul Chauhan<br>
+Atul Chauhan (@atulch09)<br>
 Sowmya Renukeshwara (@SRENU2022)
 
 
